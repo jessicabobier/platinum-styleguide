@@ -1,0 +1,59 @@
+/*
+ * Font Definitions
+ */
+
+ /* Whitney */
+
+ @font-face {
+   font-family: 'Whitney-Bold';
+   src: url('../fonts/Whitney-Bold.eot');
+   src: url('../fonts/Whitney-Bold.eot?#iefix') format('embedded-opentype'),
+   url('../fonts/Whitney-Bold.woff2') format('woff2'),
+   url('../fonts/Whitney-Bold.woff') format('woff'),
+   url('../fonts/Whitney-Bold.ttf') format('truetype'),
+   url('../fonts/Whitney-Bold.svg#wf') format('svg');
+
+   font-weight: normal;
+   font-style: normal;
+ }
+
+ @font-face {
+   font-family: 'Whitney-Book';
+   src: url('../fonts/Whitney-Book.eot');
+   src: url('../fonts/Whitney-Book.eot?#iefix') format('embedded-opentype'),
+   url('../fonts/Whitney-Book.woff2') format('woff2'),
+   url('../fonts/Whitney-Book.woff') format('woff'),
+   url('../fonts/Whitney-Book.ttf') format('truetype'),
+   url('../fonts/Whitney-Book.svg#wf') format('svg');
+
+   font-weight: normal;
+   font-style: normal;
+ }
+
+ @font-face {
+   font-family: 'Whitney-Medium';
+   src: url('../fonts/Whitney-Medium.eot');
+   src: url('../fonts/Whitney-Medium.eot?#iefix') format('embedded-opentype'),
+   url('../fonts/Whitney-Medium.woff2') format('woff2'),
+   url('../fonts/Whitney-Medium.woff') format('woff'),
+   url('../fonts/Whitney-Medium.ttf') format('truetype'),
+   url('../fonts/Whitney-Medium.svg#wf') format('svg');
+
+   font-weight: normal;
+   font-style: normal;
+ }
+
+ /* Just Lovely */
+
+ @font-face {
+   font-family: 'Just-Lovely';
+   src: url('../fonts/JustLovely.eot');
+   src: url('../fonts/JustLovely.eot?#iefix') format('embedded-opentype'),
+   url('../fonts/JustLovely.woff2') format('woff2'),
+   url('../fonts/JustLovely.woff') format('woff'),
+   url('../fonts/JustLovely.ttf') format('truetype'),
+   url('../fonts/JustLovely.svg#wf') format('svg');
+
+   font-weight: normal;
+   font-style: normal;
+ }

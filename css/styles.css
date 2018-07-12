@@ -1,0 +1,49 @@
+/*
+ * Place all custom styles here
+ */
+
+/* ==========================================================================
+   General Styles
+   ========================================================================== */
+body {
+  background: #ffffff;
+  color: #383431;
+  font-family: 'Whitney-Book';
+}
+
+a {
+  color: #006c9c;
+  font-family: 'Whitney-Bold';
+  text-decoration: none;
+}
+a:hover, a:active, a:focus {
+  color: #13597d;
+}
+
+/* ==========================================================================
+   Sidebar Nav
+   ========================================================================== */
+nav.main-nav {
+  background: #dfdfdf;
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow-y: auto;
+  z-index: 10;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.main-content {
+  margin-left: 25%;
+  padding: 20px;
+  box-sizing: border-box;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+article {
+  min-height: 100vh;
+}
